@@ -1,0 +1,3 @@
+interface Empregado {
+      void trabalha();
+}
